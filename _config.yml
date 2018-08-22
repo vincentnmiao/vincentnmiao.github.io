@@ -7,7 +7,7 @@ compass:
   # an avatar or logo
   # logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Vincent N. Miao"
+  author: "Vincent Miao"
   # tagline will appear under the title (optional)
   tagline: "Student. Engineer. Scientist."
   # if include_content is true, the contents of the content.html include will be
