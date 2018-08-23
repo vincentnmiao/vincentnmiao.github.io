@@ -9,22 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Vincent N. Miao"
   # tagline will appear under the title (optional)
-  tagline: "Student. Engineer. Scientist.
-  <hr />
-  <ul class="fa-ul main-list">
-    <li class="main-list-item">
-      <span class="fa fa-twitter fa-lg main-list-item-icon"></span>
-      <a href="https://www.twitter.com/vincentnmiao">Twitter</a>
-    </li>
-    <li class="main-list-item">
-      <span class="fa fa-linkedin fa-lg main-list-item-icon"></span>
-      <a href="http://in.linkedin.com/in/vnmiao" target="_blank">Linkedin</a>
-    </li>
-    <li class="main-list-item">
-      <span class="fa fa-google fa-lg main-list-item-icon"></span>
-      <a href="https://scholar.google.com/citations?user=KEWPtdwAAAAJ&hl=en" target="_blank">Google Scholar</a>
-    </li>
-  </ul>"
+  tagline: "Student. Engineer. Scientist."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
