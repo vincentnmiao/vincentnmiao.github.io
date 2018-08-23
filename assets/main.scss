@@ -19,9 +19,6 @@ main {
 /*** wrapper div for both header and main ***/
 .wrapper {
 	margin-top: 10%;
-	&.projects-wrapper {
-		margin-top: 10%;
-	}
 }
 
 /*** anchor tags ***/
@@ -121,7 +118,8 @@ footer {
 		width: 480px;
 		margin: 10% auto 0 auto;
 		&.projects-wrapper {
-			margin-top: 5%;
+			width: 480px;
+			margin: 10% auto 0 auto;
 		}
 	}
 }
@@ -133,7 +131,7 @@ footer {
 	.wrapper {
 		width: 680px;
 		&.projects-wrapper {
-			margin-top: 5%;
+			width: 680px;
 		}
 	}
 
