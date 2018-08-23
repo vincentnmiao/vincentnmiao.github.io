@@ -10,9 +10,7 @@ compass:
   author: "Vincent N. Miao"
   # tagline will appear under the title (optional)
   tagline: "Student. Engineer. Scientist.
-  
   <hr />
-
   <ul class="fa-ul main-list">
     <li class="main-list-item">
       <span class="fa fa-twitter fa-lg main-list-item-icon"></span>
