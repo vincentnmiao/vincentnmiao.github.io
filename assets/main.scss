@@ -132,6 +132,9 @@ footer {
 	to accomodate both the header column and the content column */
 	.wrapper {
 		width: 680px;
+		&.projects-wrapper {
+			margin-top: 5%;
+		}
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
